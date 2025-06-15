@@ -1,6 +1,6 @@
 'use client'
 
-import { LucideIcon } from 'lucide-react'
+import { DivideIcon as LucideIcon } from 'lucide-react'
 import { ArrowUpRight, ArrowDownRight } from 'lucide-react'
 import { Card } from '@/components/ui/Card'
 
